@@ -1,0 +1,12 @@
+wahyu
+Bahasa pemrograman Python
+2
+gevan
+Bahasa pemrograman Python
+1
+dzakwan
+Bahasa pemrograman C++
+0
+warga
+Bahasa pemrograman C++
+1

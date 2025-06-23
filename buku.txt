@@ -1,11 +1,38 @@
-Timus Mas
+Bahasa pemrograman C++
+2
+Bab 1: Pengenalan C++
+C++ adalah bahasa pemrograman tingkat tinggi yang dikembangkan oleh Bjarne Stroustrup sebagai pengembangan dari bahasa C. C++ mendukung paradigma prosedural dan berorientasi objek (OOP).
+::END::
+Bab 2: Kelebihan: Performa tinggi dan efisien (dekat dengan mesin). Cocok untuk sistem operasi, game engine, dan perangkat lunak berat.
+::END::
+Bahasa pemrograman Python
 3
-pada zaman dahulu, ada raksasa menitipkan timun mas kepada nenek. Niscaya suatu saat dia akan besar dan dimakan sama raksasa
-selang berapa puluh tahun, timun mas tumbuh besar. Namun nenek tidak menyerahkan timun mas kepada raksasa. karena rasa kasih sayangnya begitu besar, akhirnya dia menyuruh timun mas pergi. dan timun mas kabur, tetapi raksasa tidak terima lalu mengejar, saking cerdiknya timun mas menjebak raksasa akhirnya tumbang
-akhirnya timun mas hidup dengan nenek sepanjang hidupnya dengan bahagia. Selesai
-Buku Hadis
+Bab 1: Python adalah bahasa pemrograman tingkat tinggi yang dibuat oleh Guido van Rossum dan dirilis pertama kali pada tahun 1991
+::END::
+Bab 2: Bahasa ini dirancang dengan sintaks yang sederhana dan mudah dibaca, serta mendukung berbagai paradigma pemrograman seperti prosedural, fungsional, dan objek.
+::END::
+Bab 3: Python biasa dipakai dalam pengembangan situs dan perangkat lunak, membuat analisis data, visualisasi data dan otomatisasi tugas
+::END::
+Bahasa Pemrograman PHP
 4
-"Barang siapa tidak bersyukur kepada manusia, maka ia tidak bersyukur kepada Allah."
-"Allah tidak akan merahmati orang yang tidak merahmati sesama manusia."
-"Barang siapa beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam."
-"Orang kuat bukanlah yang pandai bergulat, tapi yang mampu menahan amarah."
+PHP adalah singkatan dari Hypertext Preprocessor. Ini adalah bahasa pemrograman server-side
+::END::
+kode PHP dijalankan di server (tempat website Anda disimpan), bukan di browser pengunjung 
+::END::
+Hasil eksekusi kode ini kemudian dikirim ke browser dalam bentuk HTML yang siap ditampilkan
+::END::
+berbeda dengan HTML statis, di mana browser langsung menampilkan file apa adanya.
+::END::
+Bahasa pemrograman Javascript
+5
+avaScript (JS) adalah bahasa pemrograman tingkat tinggi yang utamanya digunakan untuk membuat website interaktif dan dinamis. Berbeda dengan PHP yang berjalan di sisi server, JavaScript umumnya dieksekusi di sisi klien (yaitu, langsung di browser pengunjung). Ini memungkinkan website untuk merespons tindakan pengguna secara real-time tanpa perlu memuat ulang halaman.
+::END::
+Sintaks JavaScript memiliki kemiripan dengan C, C++, dan Java, membuatnya relatif familiar bagi pengembang yang sudah terbiasa dengan bahasa-bahasa tersebut. Kode JavaScript biasanya ditempatkan di antara tag <script> dalam file HTML, atau di file .js eksternal yang dihubungkan ke HTML.
+::END::
+Awalnya JavaScript hanya berjalan di browser, tetapi perkembangannya yang pesat telah membawanya ke lingkungan lain, terutama di sisi server melalui Node.js. Evolusi ini telah membuat JavaScript menjadi bahasa yang "full-stack", artinya dapat digunakan untuk pengembangan frontend (sisi klien) dan backend (sisi server).
+::END::
+avaScript adalah tulang punggung dari pengembangan web modern. Ia memungkinkan website menjadi lebih dari sekadar dokumen statis, mengubahnya menjadi aplikasi dinamis, interaktif, dan berkinerja tinggi. Dengan kemampuannya berjalan di kedua sisi (klien dan server), JavaScript telah menjadi salah satu bahasa pemrograman yang paling serbaguna dan diminati di industri teknologi. Kemampuannya untuk terus beradaptasi dengan kebutuhan web yang terus berubah menjamin posisinya sebagai komponen inti dari pengalaman online kita.
+::END::
+Kesimpulan Singkat
+JavaScript adalah bahasa pemrograman inti untuk web interaktif, dijalankan di sisi klien (browser) untuk menciptakan pengalaman pengguna yang dinamis dan responsif melalui manipulasi DOM. Dengan Node.js, JS telah berkembang menjadi bahasa "full-stack" yang kuat untuk pengembangan backend, didukung oleh ekosistem framework dan library yang kaya, menjadikannya salah satu bahasa paling serbaguna dan penting dalam pengembangan web modern.
+::END::

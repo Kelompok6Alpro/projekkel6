@@ -13,26 +13,13 @@ Bab 2: Bahasa ini dirancang dengan sintaks yang sederhana dan mudah dibaca, sert
 ::END::
 Bab 3: Python biasa dipakai dalam pengembangan situs dan perangkat lunak, membuat analisis data, visualisasi data dan otomatisasi tugas
 ::END::
-Bahasa Pemrograman PHP
-4
-PHP adalah singkatan dari Hypertext Preprocessor. Ini adalah bahasa pemrograman server-side
+Bahasa Pyhton
+3
+BAB 1
+Python, yang dibuat oleh Guido van Rossum pada akhir 1980-an, dikenal sebagai bahasa pemrograman yang mudah dipelajari dan digunakan oleh pemula maupun ahli. Sintaksnya yang bersih dan jelas, mirip dengan bahasa Inggris, membuatnya sangat mudah dipahami dan digunakan. Python bersifat interpretatif, yang berarti kode dieksekusi baris per baris tanpa perlu kompilasi. Selain itu, Python adalah bahasa pemrograman multi-paradigma, yang berarti mendukung berbagai gaya pemrograman seperti pemrograman prosedural, berorientasi objek, dan fungsional.
 ::END::
-kode PHP dijalankan di server (tempat website Anda disimpan), bukan di browser pengunjung 
+Python digunakan dalam berbagai bidang, termasuk: pegembangan web, pengembangan game, analisis data, dan machine learning
 ::END::
-Hasil eksekusi kode ini kemudian dikirim ke browser dalam bentuk HTML yang siap ditampilkan
-::END::
-berbeda dengan HTML statis, di mana browser langsung menampilkan file apa adanya.
-::END::
-Bahasa pemrograman Javascript
-5
-avaScript (JS) adalah bahasa pemrograman tingkat tinggi yang utamanya digunakan untuk membuat website interaktif dan dinamis. Berbeda dengan PHP yang berjalan di sisi server, JavaScript umumnya dieksekusi di sisi klien (yaitu, langsung di browser pengunjung). Ini memungkinkan website untuk merespons tindakan pengguna secara real-time tanpa perlu memuat ulang halaman.
-::END::
-Sintaks JavaScript memiliki kemiripan dengan C, C++, dan Java, membuatnya relatif familiar bagi pengembang yang sudah terbiasa dengan bahasa-bahasa tersebut. Kode JavaScript biasanya ditempatkan di antara tag <script> dalam file HTML, atau di file .js eksternal yang dihubungkan ke HTML.
-::END::
-Awalnya JavaScript hanya berjalan di browser, tetapi perkembangannya yang pesat telah membawanya ke lingkungan lain, terutama di sisi server melalui Node.js. Evolusi ini telah membuat JavaScript menjadi bahasa yang "full-stack", artinya dapat digunakan untuk pengembangan frontend (sisi klien) dan backend (sisi server).
-::END::
-avaScript adalah tulang punggung dari pengembangan web modern. Ia memungkinkan website menjadi lebih dari sekadar dokumen statis, mengubahnya menjadi aplikasi dinamis, interaktif, dan berkinerja tinggi. Dengan kemampuannya berjalan di kedua sisi (klien dan server), JavaScript telah menjadi salah satu bahasa pemrograman yang paling serbaguna dan diminati di industri teknologi. Kemampuannya untuk terus beradaptasi dengan kebutuhan web yang terus berubah menjamin posisinya sebagai komponen inti dari pengalaman online kita.
-::END::
-Kesimpulan Singkat
-JavaScript adalah bahasa pemrograman inti untuk web interaktif, dijalankan di sisi klien (browser) untuk menciptakan pengalaman pengguna yang dinamis dan responsif melalui manipulasi DOM. Dengan Node.js, JS telah berkembang menjadi bahasa "full-stack" yang kuat untuk pengembangan backend, didukung oleh ekosistem framework dan library yang kaya, menjadikannya salah satu bahasa paling serbaguna dan penting dalam pengembangan web modern.
+Kesimpulan
+Dengan fleksibilitas dan kemudahan penggunaannya, Python terus menjadi bahasa pemrograman yang populer dan banyak digunakan di berbagai industri dan bidang
 ::END::

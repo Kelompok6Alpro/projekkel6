@@ -1,12 +1,27 @@
 wahyu
 Bahasa pemrograman Python
 2
-gevan
-Bahasa pemrograman Python
-1
-warga
-Bahasa pemrograman Python
-1
 admin
-Bahasa pemrograman C++
+Kisah si Kancil
+2
+admin
+Kisah Putri Mandalika dan Asal Mula Tradisi Bau Nyale
+2
+wahyu
+Kucing Jingga dan Tikus Penakut
 0
+wahyu
+Bahasa pemrograman C++
+1
+gevan
+Beruang cokelat dan Madu Terakhir
+2
+gevan
+Si Burung Hantu dan Buku Misterius
+2
+dzakwan
+Bahasa pemrograman Python
+2
+dzakwan
+Kisah si Kancil
+3

@@ -1,15 +1,30 @@
 wahyu
-Bahasa pemrograman Python
+Kucing Jingga dan Tikus Penakut
+5
+bagus sekali
+05/07/2025
+wahyu
+Bahasa pemrograman C++
 4
-wuihhh
-26/06/2025
+bagus
+05/07/2025
 gevan
-Bahasa pemrograman Python
+Beruang cokelat dan Madu Terakhir
 4
-mantapp
-26/06/2025
-warga
+lumayan
+05/07/2025
+gevan
+Si Burung Hantu dan Buku Misterius
+3
+bisa dimengerti
+05/07/2025
+dzakwan
 Bahasa pemrograman Python
-2
-kurang bagus
-26/06/2025
+3
+boleh juga
+05/07/2025
+dzakwan
+Kisah si Kancil
+4
+kereeenn
+05/07/2025

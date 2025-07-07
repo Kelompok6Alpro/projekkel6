@@ -18,8 +18,3 @@ dzakwan
 user
 mahasiswa
 0
-warga
-123
-user
-publik
-0
